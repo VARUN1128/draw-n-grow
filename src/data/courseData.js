@@ -1,0 +1,166 @@
+// Course data structure for the beginner level drawing course
+export const beginnerCourse = {
+  title: "Beginner",
+  description: "Perfect for those just starting their art journey",
+  modules: [
+    {
+      id: 1,
+      title: "Alphabet Drawing - Letter A",
+      videoUrl: "https://youtu.be/SWmghBe7FpQ?si=cngmoDGOnpcrfbWB",
+      order: 1,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 2,
+      title: "Alphabet Drawing - Letter B",
+      videoUrl: "https://youtu.be/vSPo19mGlr8?si=rMmJoYNDrrsw9Qts",
+      order: 2,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 3,
+      title: "Alphabet Drawing - Letter D",
+      videoUrl: "https://youtu.be/Gn8bcxAgq10?si=pRcsCP5TNcmoVafb",
+      order: 3,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 4,
+      title: "Alphabet Drawing - Letter E",
+      videoUrl: "https://youtu.be/1TuOmaF01lw?si=mw9uaH8gVHqAmM8q",
+      order: 4,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 5,
+      title: "Alphabet Drawing - Letter F",
+      videoUrl: "https://youtu.be/etRPbuOMxg0?si=egiiZWCq7c532hbn",
+      order: 5,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 6,
+      title: "Alphabet Drawing - Letter G",
+      videoUrl: "https://youtu.be/fACALzLPy8s?si=3TCD13DJvW7ssDjL",
+      order: 6,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 7,
+      title: "Alphabet Drawing - Letter H",
+      videoUrl: "https://youtu.be/xQwxUqdluJo?si=qwXt0a3ltGhlBJKg",
+      order: 7,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 8,
+      title: "Alphabet Drawing - Letter I",
+      videoUrl: "https://youtu.be/8vOjANj3iXs?si=1HFfEWBNojjgcUYI",
+      order: 8,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 9,
+      title: "Alphabet Drawing - Letter J",
+      videoUrl: "https://youtu.be/EMFJYm6XZ2s?si=75Yd1nxF2n69u5zn",
+      order: 9,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 10,
+      title: "Alphabet Drawing - Letter K",
+      videoUrl: "https://youtu.be/hp6_KrXoWn8?si=0cINsAp-hn-byruD",
+      order: 10,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 11,
+      title: "Alphabet Drawing - Letter L",
+      videoUrl: "https://youtu.be/Ykc7Td5XALY?si=ODrIqHHX6tsdHwfD",
+      order: 11,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 12,
+      title: "Alphabet Drawing - Letter M",
+      videoUrl: "https://youtu.be/YQRHrco73g4?si=qwXt0a3ltGhlBJKg",
+      order: 12,
+      type: "alphabet",
+      completed: false,
+    },
+    {
+      id: 13,
+      title: "Vegetable Drawing - Cabbage",
+      videoUrl: "https://youtu.be/xIhdGVts48E?si=x65yz5UGIjVdaRdA",
+      order: 13,
+      type: "vegetable",
+      completed: false,
+    },
+  ],
+};
+
+// Course data structure for the intermediate level drawing course
+export const intermediateCourse = {
+  title: "Intermediate",
+  description: "Enhance your skills with advanced techniques",
+  modules: [
+    {
+      id: 1,
+      title: "Draw Oggy and the Cockroaches",
+      videoUrl: "https://www.youtube.com/watch?v=GIei0fD45Lc",
+      order: 1,
+      type: "cartoon",
+      completed: false,
+    },
+    {
+      id: 2,
+      title: "Draw Peppa Pig",
+      videoUrl: "https://www.youtube.com/watch?v=MbDBAsLEQDQ",
+      order: 2,
+      type: "cartoon",
+      completed: false,
+    },
+    {
+      id: 3,
+      title: "Draw Shinchan",
+      videoUrl: "https://www.youtube.com/watch?v=GlvwWjHqIMY",
+      order: 3,
+      type: "cartoon",
+      completed: false,
+    },
+    {
+      id: 4,
+      title: "Draw SpongeBob",
+      videoUrl: "https://www.youtube.com/watch?v=erKCmdNQN8o",
+      order: 4,
+      type: "cartoon",
+      completed: false,
+    },
+    {
+      id: 5,
+      title: "Draw Chotta Bheem",
+      videoUrl: "https://www.youtube.com/watch?v=TRLsKLU-EWI",
+      order: 5,
+      type: "cartoon",
+      completed: false,
+    }
+  ],
+};
+
+// Course data structure for the advanced level drawing course
+export const advancedCourse = {
+  title: "Advanced",
+  description: "Master complex artistic concepts and styles",
+  modules: [],
+}; 
